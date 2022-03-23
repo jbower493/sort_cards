@@ -1,7 +1,6 @@
 const cards = [3, 4, 2, "queen", "jack", 7, 5, 3, "king", "queen", 3];
 
 // Function we will pass as an argument to .sort()
-// 
 function compareTwoCards(a, b) {
     
     // We will use this function within our comparison function to map all the strings into numbers that can be sorted
